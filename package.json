@@ -14,7 +14,6 @@
     "@strapi/plugin-users-permissions": "4.7.0",
     "@strapi/strapi": "4.7.0",
     "better-sqlite3": "7.4.6",
-    "strapi-plugin-cookie-manager": "^1.0.8",
     "strapi-plugin-vercel-deploy": "^1.4.0"
   },
   "author": {
