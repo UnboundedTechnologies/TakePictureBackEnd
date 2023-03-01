@@ -56,7 +56,7 @@ TakePicture's Backend has been deployed using:
 - [Cloudinary](https://cloudinary.com/) - The Most Powerful Image and Video APIs Trusted by 1.3 million developers and 10,000 enterprise and hyper-growth companies as a critical part of their tech stack.
 
 <p align="center">
-  <b>https://take-picture-back-end.onrender.com/</b>
+  <b>https://take-picture-back-end.onrender.com/admin/</b>
 </p>
 
 ---
